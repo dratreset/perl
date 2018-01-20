@@ -2,7 +2,7 @@
 
 ############################
 #
-#	IOfileExporter
+#	IOfilename.pl
 #	Author: Robert Thompson
 #
 ############################
